@@ -1,0 +1,16 @@
+Student Performance Prediction using Machine Learning
+
+Project Abstract
+
+This project aims to predict student academic performance using Machine Learning techniques. The system analyses important factors such as study hours, attendance and marks to estimate student performance. The project follows the complete data science workflow including data collection, preprocessing, visualization, model training and prediction.
+
+Technologies Used:
+• Python
+• Pandas
+• NumPy
+• Matplotlib
+• Seaborn
+• Scikit-learn
+
+Expected Outcome:
+The model helps educational institutions identify students who may need additional academic support and enables data-driven decision making.
