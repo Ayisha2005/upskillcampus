@@ -1,0 +1,16 @@
+Student Performance Dataset
+
+Study_Hours  Attendance  Marks
+2            60          45
+4            70          55
+6            80          70
+8            90          85
+10           95          95
+
+Average Marks : 70.0
+
+Prediction Result:
+Good Student Performance
+
+Status:
+Model executed successfully.
